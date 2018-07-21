@@ -3,6 +3,8 @@ Hello World! This is by far the simplest game you will ever make. I have made se
 get around to uploading those at some point (I know you can't wait for my seizure pong version :). The coding of this 
 game was very simple. It uses Java Swing and AWT, as you can see most of my other projects use. 
 
+![Pong](/pong.png)
+
 # Why Java?
 I know a lot of people are probably like why the heck does he use Java for game creation? The simple answer is that I was 
 a poor misguided soul disillusioned by fantasies of a multi-billion dollar game created in Java... Namely, Minecraft. I
